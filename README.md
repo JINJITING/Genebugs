@@ -1,5 +1,5 @@
 # Genebugs
-The bug records
+记录开发中遇到过的令人疑惑的“小虫子”
 ## 最近更新
 - [那些一不小心就产生的“bug”](https://github.com/JINJITING/Genebugs/issues/2)--2021-05-28
 - [前端获取 Long 型数值精度丢失，浏览器 preview 与 response 显示不一致](https://github.com/JINJITING/Genebugs/issues/1)--2021-01-05
