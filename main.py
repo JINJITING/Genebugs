@@ -5,7 +5,7 @@ import os
 from github import Github
 
 MD_HEAD = '''# Genebugs
-The bug records
+记录开发中遇到过的令人疑惑的“小虫子”
 '''
 
 ANCHOR_NUMBER = 5
